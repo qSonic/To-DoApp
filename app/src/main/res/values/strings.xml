@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">To-Do App</string>
+    <string name="my_day_title">My Day</string>
+    <string name="tasks_title">Task List</string>
+    <string name="about_title">About</string>
 </resources>
